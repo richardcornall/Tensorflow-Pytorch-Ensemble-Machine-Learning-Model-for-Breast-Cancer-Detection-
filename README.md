@@ -1,27 +1,5 @@
 Breast Cancer Prediction using TensorFlow, PyTorch, and Ensemble Learning
-Table of Contents
-Introduction
-Dataset Description
-Data Preprocessing
-Machine Learning Models
-TensorFlow Neural Network
-PyTorch Neural Network
-Ensemble Model with Soft Voting
-Implementation Details
-Environment Setup and Dependencies
-Data Preparation
-Model Architectures
-Training and Evaluation
-Results and Analysis
-Individual Model Performance
-Ensemble Model Performance
-Interpretation with SHAP Values
-Conclusion
-How to Run the Code
-Installation Instructions
-Usage Instructions
-References
-Introduction
+
 This project focuses on developing machine learning models to predict whether a breast tumor is malignant or benign using the Breast Cancer Wisconsin (Diagnostic) Dataset. The primary objectives are:
 
 Implement individual neural network models using TensorFlow and PyTorch.
