@@ -1,0 +1,15 @@
+# Kafka logs
+logs/
+
+# Airflow logs
+airflow/logs/
+
+# PySpark temporary files
+metastore_db/
+.derby.log
+
+# Other ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
